@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356cfd6a-b4db-4b9a-a34b-249bb35a749a" name="Changes" comment="" />
+    <list default="true" id="356cfd6a-b4db-4b9a-a34b-249bb35a749a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/song.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1y5JZPAHPRNWi9CdD7yoJUzKQBb" />
   <component name="ProjectViewState">
@@ -38,10 +48,23 @@
       <option name="presentableId" value="Default" />
       <updated>1631535570858</updated>
       <workItem from="1631535572186" duration="1045000" />
+      <workItem from="1631622888016" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

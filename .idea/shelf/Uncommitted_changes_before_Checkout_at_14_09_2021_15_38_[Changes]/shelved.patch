@@ -1,0 +1,43 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"356cfd6a-b4db-4b9a-a34b-249bb35a749a\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1y5JZPAHPRNWi9CdD7yoJUzKQBb\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"356cfd6a-b4db-4b9a-a34b-249bb35a749a\" name=\"Changes\" comment=\"\" />\r\n      <created>1631535570858</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1631535570858</updated>\r\n      <workItem from=\"1631535572186\" duration=\"1045000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 76c11072de35b1f9d01362008183955e63297a0e)
++++ b/.idea/workspace.xml	(date 1631622877059)
+@@ -11,7 +11,15 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/song.txt" root0="FORCE_HIGHLIGHTING" />
+   </component>
+   <component name="ProjectId" id="1y5JZPAHPRNWi9CdD7yoJUzKQBb" />
+   <component name="ProjectViewState">
+@@ -44,4 +52,15 @@
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
